@@ -18,6 +18,12 @@ This project leverages machine learning to recommend suitable crops based on var
 Source - [crop-recommendation](https://www.kaggle.com/datasets/aksahaha/crop-recommendation/data)
 The dataset used in this project is Crop_recommendation.csv, which includes the following columns:
 
+Nitrogen: The amount of nitrogen (in kg/ha) present in the soil for the crop
+
+Phosphorus: The amount of Phosphorus (in kg/ha) present in the soil for the crop
+
+Potassium: The amount of Potassium (in kg/ha) present in the soil for the crop
+
 temperature: Average temperature in Celsius
 
 humidity: Average humidity percentage
